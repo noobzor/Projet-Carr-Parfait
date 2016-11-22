@@ -1,4 +1,4 @@
-
+zz
 
 
 import java.awt.Color;
@@ -13,7 +13,7 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
 public class CarréParfait {
-
+{
 
 	public static void main(String[] args) 
 	{
